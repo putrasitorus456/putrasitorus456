@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Putra Agung A.M. Sitorus</h1>
-<h3 align="center">🚀 Software Engineer | Full-Stack Developer | Product & System Builder</h3>
+<h3 align="center">🚀 Software Engineer | Full-Stack Web Developer | Product & System Builder</h3>
 
 <p align="center">
   <a href="https://github.com/putrasitorus456">
@@ -53,11 +53,11 @@ I enjoy building products **end-to-end** — from requirement analysis, UI/UX de
 - **🛍️ Uglybijoux E-Commerce**  
   Next.js + Node.js + Express + PostgreSQL — payment & shipping integration, invoicing, email notification, admin dashboard.
 
-- **💡 Smart Freeway Street Light System (IoT Monitoring Platform)**  
-  Next.js + Node.js + Express + MQTT + MongoDB — real-time monitoring, control, and self-diagnosis reporting.
+- **✅ PrioTask (To-Do & Priority Manager)**  
+  ASP.NET Core (C#) + MySQL + Razor Pages/REST — task management app with priorities, status workflow, and persistent data storage.
 
-- **📊 Digital Campaign Dashboard (Client: Telkomsel)**  
-  React + Golang (Gin/GORM) + MySQL — analytics dashboard for campaign performance, partner budget tracking, and ranking.
+- **📸 SnapAttend – Employee WFH Attendance Platform**  
+  React + Laravel + MySQL + Docker — photo-based WFH check-in/out, attendance history, and HR dashboard for monitoring & employee CRUD.
 
 - **🌐 PARYASOP Official Website**  
   Next.js + Node.js + Express + PostgreSQL — organizational portal with admin dashboard, job vacancy integration, and security hardening.
@@ -70,6 +70,8 @@ I enjoy building products **end-to-end** — from requirement analysis, UI/UX de
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -83,6 +85,8 @@ I enjoy building products **end-to-end** — from requirement analysis, UI/UX de
 
 ### 🔥 Backend
 <p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
